@@ -1,2 +1,3 @@
 # hacktober
-some challenges for the coders out there looking for pull request for the hacktober fest
+This repository is for those who wants to complete their challenge in hacktober fest .
+there are some coding questions for newbies they can also add the comments in it
